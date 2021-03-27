@@ -12,5 +12,11 @@ arrested, tortured and exiled to Thua Phu Prison (Hue) and transferred to Lao Ba
 In March 1942, he escaped from the prison Đắc Glêi (now in Kon Tum), went to Thanh Hóa and contacted the party (through his secret activities in the 
 district Hậu Lộc, Thanh Hoa province). In 1945, when the August Revolution broke out, he was elected Chairman of the Rebellion Committee of Thua 
 Thien-Hue.
+
+
+
+
+
+asiudga8sgdusagdoisagdusaoidusagdiuagasiud
 */
 #include "Source.h"
